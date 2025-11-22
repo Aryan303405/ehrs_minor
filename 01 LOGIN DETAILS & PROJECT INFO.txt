@@ -2,8 +2,6 @@
 
 **Database Name: ohmsphp**
 
-**Developed by Kabir Khyrul**
-
 **Recommended PHP Version 5.6 or Newer**
 
 
@@ -13,4 +11,5 @@ Username: admin
 Password: Password@123
 
 **Making an appointment creates account for the patient**
+
 
